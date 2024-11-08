@@ -9,7 +9,7 @@
 
 <h2><img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"> Hi, I'm cutejiuge ! <img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"></h2>
 
-<img align='right' src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230720/1.png" width="415">
+<img align='right' src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230720/1.png" width="380">
 
 
 <p><img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/2.gif" width="30"> <em>Software Engineering Graduated From <a href="https://www.nwafu.edu.cn/">NWAFU</a>！<img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/3.gif" width="30"></br>
