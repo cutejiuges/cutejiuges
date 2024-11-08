@@ -52,3 +52,8 @@ func main() {
   <img height='165' src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutejiuges&layout=compact&langs_count=8" align="center" />
   <img height='165' src="https://github-readme-stats.vercel.app/api?username=cutejiuges&show_icons=true" align="center" />
 </div> 
+
+---
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cutejiuges&theme=github)
+
