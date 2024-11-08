@@ -1,5 +1,13 @@
-<h2><img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"> Hi, I'm cutejiuge ! <img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"></h2>
+<div align="center">
 
+  <!-- 打字效果 -->
+  <a href="https://github.com/junkaione"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=330&lines=console.log(%22Hello+World!%22);I'm+cutejiuge%2C+Have+a+nice+day!" alt="Typing SVG" /></a>
+
+  <!-- 敲代码图片 -->
+  <a href="https://sm.ms/image/n2wPkGMSgY7eKE3" target="_blank"><img src="https://s2.loli.net/2024/05/16/n2wPkGMSgY7eKE3.png" width="400" ></a>
+</div>
+
+<h2><img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"> Hi, I'm cutejiuge ! <img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"></h2>
 
 <img align='right' src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230720/1.png" width="415">
 
@@ -39,29 +47,11 @@ func main() {
 }
 ```
 
-```Go
-type aboutMe struct {
-  pronouns   string[]
-  languages  string[]
-  hobbies    string[]
-  funFact    string
-}
+### About My Github
+<div align="left">
+  <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutejiuges&layout=compact&langs_count=8" align="center" />
+  <img height='180' src="https://github-readme-stats.vercel.app/api?username=cutejiuges&show_icons=true" align="center" />
+</div> 
 
-func main() {
-  cutejiuge := &aboutMe {
-    pronouns: ["He", "Him"],
-    languages: ["Golang", "Java", "Rust", "Python"],
-    hobbies: ["Coding", "Gaming", "Sleeping"],
-    funFact: "Not only programmer, but also designer more!",
-  }
-
-  fmt.Println("Pronouns: ", cutejiuge.pronouns)
-  fmt.Println("Languages I Know: ", cutejiuge.languages)
-  fmt.Println("My Hobbies: ", cutejiuge.hobbies)
-  fmt.Println("Fun Fact: ", cutejiuge.funFact)
-}
-```
 ---
 
-⭐️ From [@ElainaFanBoy](https://github.com/ElainaFanBoy) 💕
-<img align='right' src="https://komarev.com/ghpvc/?username=ElainaFanBoy&label=Profile+Views&color=3a8755">
