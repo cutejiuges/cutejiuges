@@ -26,24 +26,24 @@
 
 ```Go
 type aboutMe struct {
-  pronouns   string[]
-  languages  string[]
-  hobbies    string[]
-  funFact    string
+  Pronouns  []string
+	Languages []string
+	Hobbies   []string
+	FunFact   string
 }
 
 func main() {
-  cutejiuge := &aboutMe {
-    pronouns: ["He", "Him"],
-    languages: ["Golang", "Java", "Rust", "Python"],
-    hobbies: ["Coding", "Gaming", "Sleeping"],
-    funFact: "Not only programmer, but also designer more!",
-  }
+	cutejiuge := &aboutMe{
+		Pronouns:  []string{"He", "Him"},
+		Languages: []string{"Golang", "Java", "Rust", "Python"},
+		Hobbies:   []string{"Coding", "Gaming", "Sleeping"},
+		FunFact:   "Not only programmer, but also designer more!",
+	}
 
-  fmt.Println("Pronouns: ", cutejiuge.pronouns)
-  fmt.Println("Languages I Know: ", cutejiuge.languages)
-  fmt.Println("My Hobbies: ", cutejiuge.hobbies)
-  fmt.Println("Fun Fact: ", cutejiuge.funFact)
+	fmt.Println("Pronouns: ", cutejiuge.Pronouns)
+	fmt.Println("Languages I Know: ", cutejiuge.Languages)
+	fmt.Println("My Hobbies: ", cutejiuge.Hobbies)
+	fmt.Println("Fun Fact: ", cutejiuge.FunFact)
 }
 ```
 
